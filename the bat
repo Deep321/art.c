@@ -1,0 +1,33 @@
+#include<stdio.h>
+//This program prints a comic character- Deeptanshu Prasad - 1000928240
+int main(void)
+{
+
+     
+
+
+
+
+
+printf("					                                              ________________   \n");				
+printf("						                                          /		              \\                  \n");			
+printf("					                                            |  I'm a bat!      |         \n");
+printf("							                                       \\		              /           \n");
+printf("							                                        \\_______________/	         \n");
+printf("							                                             \\	   /                         \n");
+printf("							                                              \\	/                              \n");
+printf("                                                             \\/                                         \n");
+printf("    			                                       /\\ ____________ /\\ 					\n");
+printf("        	            _______________________       ~~      ~~     __________________________					\n");
+printf("                    \\		                        |    ^      ^   | 			                    /                                     \n");	
+printf("                    \\		                              >>.<<                                 /						\n");
+printf("                     \\		                        \\  ___/\\___   /  			                   /						\n");
+printf("                     	\\		     	                  \\  \\    /   /                          /  						\n");
+printf("                        /    		                /   _______     \\			                  \\						\n");
+printf("                      /________________________/                \\________________________\\							\n");
+
+
+
+
+return 0;
+}
